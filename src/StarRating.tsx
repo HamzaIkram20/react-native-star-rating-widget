@@ -224,7 +224,7 @@ const styles = StyleSheet.create({
         alignSelf: "flex-start",
     },
     star: {
-        marginHorizontal: 5,
+        marginHorizontal: 0,
     },
 });
 
